@@ -20,7 +20,7 @@ int main()
     if(note_500 != 0)
     {
     	printf("500-TK Note = %d\n",note_500);
-	}
+    }
     
     note_100 = total_amount/100;
     total_amount = total_amount%100;
