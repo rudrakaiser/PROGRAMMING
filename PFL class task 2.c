@@ -24,7 +24,11 @@ int main()
 		
 		if(loop==1)
 		{
-			last_value_for_max = last_value_for_min = value;
+			maximum = value;
+			last_value_for_max = value;
+			
+			minimum = value;
+			last_value_for_min = value;
 		}
 		else
 		{
