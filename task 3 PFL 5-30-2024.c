@@ -9,10 +9,10 @@ int main()
 {
 	int value, loop, count = 0;
 	
-	printf("\n\tEnter a value : ");
+	printf("Enter a value : ");
 	scanf("%d", &value);
 	
-	printf("\tDigits : ");
+	printf("Digits : ");
 	
 	while(value!=0)
 	{
@@ -22,7 +22,7 @@ int main()
 		count++;
 	}
 	
-	printf("\n\tTotal %d digits", count);
+	printf("\nTotal %d digits", count);
 	
 	return 0;
 }
