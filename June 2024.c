@@ -1,27 +1,28 @@
 #include<stdio.h>
 int main()
 {
-	int i, j, starting_gap=6, day=0;
+	int day, week_day=0, week_space;
 	
-	printf("\n\tJune 2024\n\n");
-	printf("\tSu\tMo\tTu\tWe\tTh\tFr\tSa\n");
-	printf("\t--------------------------------------------------\n");
+	printf("June 2024\n\n");
+	printf("Su\tMo\tTu\tWe\tTh\tFr\tSa\n");
+	printf("--------------------------------------------------\n");
 	
-	for(j=1; j<=starting_gap; j++)
+	for(week_space=1; week_space<=6; week_space++)
 	{
-		printf("\t  ");
-		day++;
+		printf("\t");
+		week_day++;
 	}
 	
-	for(i=1; i<=30; i++)
+	for(day=1; day<=30; day++)
 	{
-		day++;
-		printf("\t%02d", i);
-		if(day%7==0)
+		week_day++;
+		
+		printf("%02d\t",day);
+		
+		if(week_day%7==0)
 		{
 			printf("\n");
 		}
 	}
-	
 	return 0;
 }
