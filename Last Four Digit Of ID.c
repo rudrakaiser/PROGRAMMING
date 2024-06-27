@@ -6,7 +6,7 @@ int main()
 	scanf("%d",&test_case);
 	for(i=1; i<=test_case; i++)
 	{
-		int ID, temp;
+		int ID;
 		scanf("%d",&ID);
 		if(ID%2==0)
 		{
