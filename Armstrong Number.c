@@ -23,8 +23,8 @@ int main()
 			sum = sum + digit;
 			temp = temp/10;
 		}
-		if(num==sum) printf("Yes\n");
-		else printf("No\n");
+		if(num==sum) printf("Case %d: Yes\n",i);
+		else printf("Case %d: No\n",i);
 	}
 	return 0;
 }
