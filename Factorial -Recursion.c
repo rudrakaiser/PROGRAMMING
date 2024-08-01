@@ -6,6 +6,9 @@ int fact(int n)
 }
 int main()
 {
-	printf("%d",fact(5));
+	int num;
+	printf("Enter a number = ");
+	scanf("%d", &num);
+	printf("%d Factorial = %d",num, fact(num));
 	return 0;
 }
