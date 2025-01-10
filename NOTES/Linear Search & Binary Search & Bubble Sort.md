@@ -83,7 +83,7 @@
    - **Occasional Search :** If searching is infrequent, linear search avoids the overhead of sorting.
 
 2. **When Binary Search is Better :**
-   - **Sorted Data :** Binary search is highly efficient for sorted datasets due to its \( O(\log n) \) time complexity.
+   - **Sorted Data :** Binary search is highly efficient for sorted datasets due to its O(log n) time complexity.
    - **Large Datasets :** For large lists, the logarithmic reduction in search space makes binary search significantly faster than linear search.
    - **Repeated Searches :** If multiple searches are to be performed on the same dataset, sorting the list once and using binary search is more efficient.
 
