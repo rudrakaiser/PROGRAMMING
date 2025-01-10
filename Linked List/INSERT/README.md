@@ -1,4 +1,4 @@
-### **Pseudocode for Deletion :**
+### **Pseudocode for Insertion :**
 
 ```
 if Avail = NULL → Overflow
