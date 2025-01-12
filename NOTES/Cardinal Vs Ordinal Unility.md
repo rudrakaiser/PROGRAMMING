@@ -11,8 +11,6 @@
 
 ---
 
-### Detailed Explanation :
-
 #### **১. সংজ্ঞা :**  
 
 1. **Cardinal Utility :**  
