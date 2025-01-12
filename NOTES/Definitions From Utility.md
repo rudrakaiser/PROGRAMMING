@@ -1,4 +1,4 @@
-### Easy Definitions:  
+## Definitions From Utility:  
 
 1. **Utility (উপযোগ) :**  
    **Utility refers to the satisfaction or benefit a person gains from consuming a product or service.**  
