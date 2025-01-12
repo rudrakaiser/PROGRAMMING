@@ -1,4 +1,4 @@
-## Cardinal Utility VS Ordinal Utility
+# Cardinal Utility VS Ordinal Utility
 
 | **Aspect**              | **Cardinal Utility**                                      | **Ordinal Utility**                                      |
 |--------------------------|----------------------------------------------------------|---------------------------------------------------------|
