@@ -3,7 +3,7 @@
 | **Aspect**              | **Cardinal Utility**                                      | **Ordinal Utility**                                      |
 |--------------------------|----------------------------------------------------------|---------------------------------------------------------|
 | **Definition**           | Assumes utility can be measured numerically in "utils."  | Assumes utility can only be ranked or ordered.          |
-| **Measurement**          | Absolute measurement (e.g., 10 utils, 5 utils).          | Relative ranking (e.g., A is preferred over B).         |
+| **Measurement**          | Absolute measurement.          | Relative ranking.         |
 | **Realism**              | Less realistic and harder to apply practically.          | More realistic and widely accepted in modern economics. |
 | **Principles**           | Based on the Law of Diminishing Marginal Utility.         | Based on Indifference Curve Analysis and Marginal Rate of Substitution (MRS). |
 | **Key Contributors**     | Developed by Alfred Marshall and early economists.       | Introduced by Hicks and Allen.                         |
