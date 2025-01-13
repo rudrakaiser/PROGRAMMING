@@ -5,7 +5,7 @@
    Intrinsic material is a pure semiconductor material that has no impurities. Its electrical conductivity is very low because it has an equal number of electrons and holes. Examples include pure silicon or germanium.
 
 2. **n-Type Material** :  
-   n-Type material is a semiconductor doped with donor impurities (e.g., phosphorus or arsenic) that provide extra electrons, making electrons the majority charge carriers.
+   n-Type material is a semiconductor doped with donor impurities (phosphorus or arsenic) that provide extra electrons, making electrons the majority charge carriers.
 
 3. **Depletion Region** :  
    The depletion region in a p-n junction is the region around the junction where mobile charge carriers (electrons and holes) are depleted, leaving behind only immobile ions. This creates an electric field that opposes further diffusion of carriers.
