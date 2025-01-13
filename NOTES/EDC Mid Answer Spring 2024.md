@@ -32,7 +32,7 @@
    Electrons are negatively charged carriers that move from the n-side to the p-side, while holes are positively charged carriers that move from the p-side to the n-side. Both contribute to current flow in a semiconductor.
 
 5. **Load Line Analysis** :  
-   Load line analysis is a graphical technique used to determine the operating point of a circuit by plotting the load line on the IV characteristics of a diode or transistor.
+   Load line analysis is a graphical technique used to determine the operating point of a circuit by plotting the load line on the VI characteristics of a diode or transistor.
 
 ---
 
