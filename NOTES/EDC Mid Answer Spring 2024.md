@@ -1,4 +1,4 @@
-## **EDC Spring 2024 MID Questions Answer**
+## **EDC MID (Spring 2024) - Answers**
 
 ### **Q1 (a) - Definitions**
 1. **Intrinsic Material** :  
