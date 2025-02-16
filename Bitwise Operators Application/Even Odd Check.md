@@ -57,11 +57,11 @@ Even
     - Let ${n=12}$
     - Binary of ${n}$ is ${1100}$
     - Here, Least Significant Bit is ${0}$
-    - Now, ${0}$ ${\&}$ ${1}$ will be ${0}$
+    - Now, ${(0}$ & ${1)}$ will be ${0}$
     - So, ${0=0}$, the condition is `true`
 - Example For **Odd** :
     - Let ${n=13}$
     - Binary of ${n}$ is ${1101}$
     - Here, Least Significant Bit is ${1}$
-    - Now, ${1}$ ${\&}$ ${1}$ will be ${1}$
+    - Now, ${(1}$ & ${1)}$ will be ${1}$
     - So, ${1=0}$, the condition is `false`
