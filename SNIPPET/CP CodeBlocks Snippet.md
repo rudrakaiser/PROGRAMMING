@@ -21,7 +21,7 @@ using namespace std;
 #define endl '\n'
 
 void solve() {
-    |
+    
 }
 
 int main() {
@@ -56,7 +56,7 @@ using namespace std;
 #define endl '\n'
 
 void solve() {
-    |
+    
 }
 
 int main() {
