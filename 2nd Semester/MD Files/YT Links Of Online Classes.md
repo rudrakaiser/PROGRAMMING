@@ -1,4 +1,4 @@
-### DMNT
+### DMNT (Discrete Mathematics & Number Theory)
 
 - ### [Online Class 1](https://youtu.be/EFjQEYlMxCQ)
 - ### [Online Class 2](https://youtu.be/AHpmp-luD08)
@@ -8,14 +8,15 @@
 
 ---
 
-### EE
+### EE (Engineering Economics)
 
 - ### [Online Class 1](https://youtu.be/KtZLh07R69Q)
 - ### [Online Class 2](https://youtu.be/rlBvPQ-wJNY)
 - ### [Online Class 3]()
+- ### [Online Class 4]()
 
 ---
 
-### DS
+### DS (Data Structure)
 
 - ### [Playlist]()
