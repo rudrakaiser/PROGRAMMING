@@ -57,17 +57,5 @@
 			"}"
 		]
 	},
-
-	"C++ Test Case Shortcut": {
-		"prefix": "test",
-		"body": [
-			"int test;",
-			"cin >> test;",
-			"while (test--) {",
-			"    $0",
-			"}"
-		],
-		"description": "C++ Snippet"
-	},
 }
 ```
