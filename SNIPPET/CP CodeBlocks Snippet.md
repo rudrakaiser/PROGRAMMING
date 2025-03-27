@@ -67,15 +67,3 @@ int main() {
 ```
 
 ---
-
-## test
-
-```cpp
-ll test;
-cin >> test;
-while (test--) {
-    |
-}
-```
-
----
