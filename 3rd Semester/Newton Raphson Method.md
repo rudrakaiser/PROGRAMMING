@@ -155,31 +155,6 @@ int main() {
 
 ---
 
-## **Output**
-
-### Output for Equation 01
-
-```
-Iteration 1: x = 0.833333
-Iteration 2: x = 0.806452
-Iteration 3: x = 0.806298
-Iteration 4: x = 0.806298
-
-Approximate root = 0.806298
-```
-
-### Output for Equation 02
-
-```
-Iteration 1: x = 0.629209
-Iteration 2: x = 0.696493
-Iteration 3: x = 0.682271
-Iteration 4: x = 0.682327
-Iteration 5: x = 0.682327
-
-Approximate root = 0.682327
-```
-
 ## **Implementation**
 
 The Newton–Raphson method has been implemented in C++ for both equations. Below is a line-by-line explanation of the program:
@@ -209,3 +184,35 @@ The Newton–Raphson method has been implemented in C++ for both equations. Belo
 | `return 0;`                                                                          | Ends the program successfully.                                                                                                                                                      |
 
 ---
+
+## **Output**
+
+### Output for Equation 01
+
+```
+Iteration 1: x = 1.41176
+Iteration 2: x = 1.36934
+Iteration 3: x = 1.36881
+Iteration 4: x = 1.36881
+
+Approximate root = 1.36881
+```
+
+### Output for Equation 02
+
+```
+Iteration 1: x = 5.56005
+Iteration 2: x = 3.67353
+Iteration 3: x = 2.43809
+Iteration 4: x = 1.63973
+Iteration 5: x = 1.09749
+Iteration 6: x = 0.644036
+Iteration 7: x = -0.8553
+Iteration 8: x = -1.58913
+Iteration 9: x = -1.32403
+Iteration 10: x = -1.25396
+Iteration 11: x = -1.24908
+Iteration 12: x = -1.24905
+
+Approximate root = -1.24905
+```

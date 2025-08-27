@@ -5,7 +5,7 @@
 In this report, we apply the **False Position Method (Regula Falsi Method)** to find the root of the nonlinear equation:
 
 $$
-f(x) = x^3 - 2x - 5
+f(x) = xe^x - 3
 $$
 
 The equation cannot be solved directly using simple algebraic methods. The False Position Method, which is based on the principle of bracketing and linear interpolation, is used to approximate the solution.
@@ -49,7 +49,7 @@ The iteration continues until either:
 using namespace std;
 
 double f(double x) {
-    return x*x*x - 2*x - 5;
+    return x * exp(x) - 3;
 }
 
 int main() {
@@ -104,27 +104,6 @@ int main() {
 
 ---
 
-## **Output**
-
-Example run for initial guesses:
-
-```
-a = 2
-b = 3
-Max Iteration = 10
-----------------------------------
-Iteration    f(x)
-----------------------------------
-1            -0.518519
-2            -0.0179861
-3            -0.0006156
-----------------------------------
-Approximate root found,
-x = 2.09455
-```
-
----
-
 ## **Implementation**
 
 The program can be explained line by line as follows:
@@ -151,5 +130,32 @@ The program can be explained line by line as follows:
 | `if (fa * fx < 0) { b = x; fb = fx; } else { a = x; fa = fx; }` | Updates the interval. If the root lies between `a` and `x`, then `b` is replaced with `x`. Otherwise, `a` is replaced with `x`.         |
 | `cout << "Max iterations reached... x = " << x << endl;`        | If convergence is not reached within maximum iterations, prints the last approximation.                                                 |
 | `return 0;`                                                     | Ends the program successfully.                                                                                                          |
+
+---
+
+## **Output**
+
+Example run for initial guesses:
+
+```
+a = 1
+b = 2
+Max Iteration = 100
+----------------------------------
+Iteration        f(x)
+----------------------------------
+1                -0.152472
+2                -0.0815419
+3                -0.0433291
+4                -0.022945
+5                -0.0121284
+6                -0.00640476
+7                -0.00338049
+8                -0.00178377
+9                -0.000941106
+----------------------------------
+Approximate root found,
+x = 1.04975
+```
 
 ---
